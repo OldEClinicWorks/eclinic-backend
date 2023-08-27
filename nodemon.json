@@ -1,0 +1,9 @@
+{
+  "ext": "js ts",
+  "execMap": {
+    "ts": "ts-node"
+  },
+  "events": {
+    "crash": "npm run compile"
+  }
+}
